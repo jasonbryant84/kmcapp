@@ -1,0 +1,11 @@
+{
+    "recordings": [
+        {
+            "key": "Dark & Light Breathing",
+            "description": "Introductory breathing exercise to settle the mind",
+            "artist": "Jason Bryant",
+            "intro": "dark-light-intro.mp3",
+            "meditation": "dark-light-meditation.mp3"
+        }
+    ]
+}
